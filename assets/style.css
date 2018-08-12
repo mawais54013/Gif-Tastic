@@ -1,0 +1,29 @@
+#head1
+{
+    text-align: center
+}
+#head2
+{
+    text-align: center
+}
+
+#head3
+{
+    text-align: left 
+}
+img
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+p{
+    padding-left: 15px;
+}
+.topic-btn
+{
+    margin-right: 15px;
+}
+/* #poke-form
+{
+    text-align: center;
+} */
