@@ -2,7 +2,7 @@
 
 Pokemon themed gif generation program that uses Giphy API to obtain and show gifs related the pokemon selected.
 
-[Pokemon Gif-Tastic](file:///Users/muhammadawais/Desktop/Gif-Tastic/index.html)
+[Pokemon Gif-Tastic](https://mawais54013.github.io/Gif-Tastic/)
 
 [Portfolio](https://mawais54013.github.io/Bootstrap-Portfolio/portfolio.html)
 
