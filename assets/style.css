@@ -1,10 +1,13 @@
+/* style mostly used for aligning text and applying margin */
 #head1
 {
     text-align: center
 }
 #head2
 {
+    height: 130px;
     text-align: center
+
 }
 
 #head3
@@ -23,7 +26,32 @@ p{
 {
     margin-right: 15px;
 }
-/* #poke-form
+#im1
+{
+    width: 480px;
+    height: 180px;
+}
+header
 {
     text-align: center;
-} */
+    
+}
+.jumbotron
+{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.gif
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#add-charc
+{
+    background-color: black;
+    color:white;
+}
+.topic-btn
+{
+    border: 2px solid #0099CC;
+}
